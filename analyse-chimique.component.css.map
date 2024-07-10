@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/Components/analyse-chimique/analyse-chimique.component.css"],
-  "sourcesContent": [".chemical-index {\r\n  font-size: smaller; /* Taille de police plus petite */\r\n  vertical-align: super; /* Alignement vertical au-dessus de la ligne de base */\r\n}\r\n"],
-  "mappings": ";AAAA,CAAC;AACC,aAAW;AACX,kBAAgB;AAClB;",
-  "names": []
-}
